@@ -25,9 +25,10 @@ git clone https://github.com/yourname/go-portalscan
 cd go-portalscan
 go build -o portalscan ulp.go
 ```
-![preview](https://i.ibb.co/7xJ8kFLv/A8-ACCF18-AD5-E-49-C7-BAA5-70-F847-AF44-F0.png)
 
 ## Usage
+
+![preview](https://i.ibb.co/7xJ8kFLv/A8-ACCF18-AD5-E-49-C7-BAA5-70-F847-AF44-F0.png)
 
 ```bash
 ./portalscan -f credentials.txt -t 50
