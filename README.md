@@ -1,4 +1,4 @@
-# go-portalscan
+# IAmAdmin!
 
 A fast, multi-threaded admin portal credential checker written in Go with Chrome TLS fingerprinting.
 
