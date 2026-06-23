@@ -82,3 +82,5 @@ Lines that don't match `admin.`, `admin-`, or `/admin` are removed automatically
 ```
 
 Dumps the raw GET response and failed POST responses to `debug_*.html` files for inspection.
+
+Disclaimer: This tool is intended for educational purposes only. The author is not responsible for any misuse or damage caused by this program. Do not use against any system you do not have explicit permission to test.
